@@ -1,1 +1,1 @@
-# MasterMind-Pascal
+# MasterMind Video Game
